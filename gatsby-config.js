@@ -1,7 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'WrittenFor',
-    description: 'This repo is based on Gatsby, and Netlify CMS starter template. The main source of truth is in Github (public) and continuous development in Netlify. We are also using Netlify CMS to sort our blog and writing articles.',
+    title: `WrittenFor`,
+    siteUrl: `https://writtenfor.netlify.app/`,
+    description: `This repo is based on Gatsby, and Netlify CMS starter template. The main source of truth is in Github (public) and continuous development in Netlify. We are also using Netlify CMS to sort our blog and writing articles.`,
+    facebook: `ray.f.halim`,
+    instagram: `ray_earths`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
