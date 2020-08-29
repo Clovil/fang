@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
@@ -14,7 +15,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="WrittenFor"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -34,11 +35,13 @@ const Footer = class extends React.Component {
                         About
                       </Link>
                     </li>
+                    {/*
                     <li>
                       <Link className="navbar-item" to="/products">
                         Products
                       </Link>
                     </li>
+                    */}
                     <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
