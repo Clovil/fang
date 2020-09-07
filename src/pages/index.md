@@ -1,12 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Written For
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-description: 
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Writing from the heart to envoy the message to everyone
+subheading: Enjoy reading while sipping a cup of coffee
+description: What is written for? It is a collection of writings based on the
+  collected sources that I personally read or skim through (lol...) to be
+  written to everyone out there. I do not proclaim that I am a professional or
+  knowledgable about writing.
 ---
