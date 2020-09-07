@@ -43,10 +43,7 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item" title="Logo">
               <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
               style={{
-                boxShadow:
-                  'rgb(20, 5, 133) 0.5rem 0px 0px, rgb(20, 5, 133) -0.5rem 0px 0px',
-                backgroundColor: 'rgb(20, 5, 133)',
-                color: 'white',
+                color: '#4d3626',
                 lineHeight: '1',
                 padding: '0.25em',
               }}
@@ -84,9 +81,11 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
+              {/*
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+              */}
             </div>
           </div>
         </div>
