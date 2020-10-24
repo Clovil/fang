@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About the author
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Short intro
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Ray was born in Jakarta, Indonesia. He is the first child and older brother in Halim family. At age 15, he was sent to Phoenix, Arizona in United States of America to study English and learn how to live abroad. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+He graduated with Bachelor of Design from Tarumanagara University at age 27. Shortly after graduation, he went to Beijing, China to learn Chinese. He used to work at Google Maps department under one of many Google vendor companies in Google Beijing.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Currently, Ray is living in Shanghai, China. He works as Technical Analyst for one of online e-commerce company called Tophatter. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+
+What he wants to accomplish:
+
+* Find a place that he can call home
+* Get married to the one he loves (Fani)
+* Study and specialized more into Data Scientist
+* Build his own blog from scratch
