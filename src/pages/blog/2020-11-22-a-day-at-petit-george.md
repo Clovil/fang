@@ -4,7 +4,7 @@ title: A day at Petit George
 date: 2020-10-24T10:11:46.327Z
 description: Spending your Saturday in coffee house studying or learning (or
   your preference...)
-featuredpost: true
+featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
   - shanghai
