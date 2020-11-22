@@ -43,8 +43,6 @@ p {
 }
 ```
 
-
-
 The appearance of a website is determined and controlled by HTML and CSS. In you want to have interaction within a website, that is where JavaScript takes a part in building a website.
 
 Below is an example of what happens when user clicks a paragraph that we wrote above.
@@ -58,6 +56,4 @@ p.addEventListener('click', function(event) {
 );
 ```
 
-
-
-This is part 1 of Introduction of HTML and CSS. I found out that the tutorial is very friendly for beginners who wants to learn more about web development or HTML and CSS in general.** [Link](https://www.internetingishard.com/html-and-css/introduction/)**
+This is part 1 of Introduction of HTML and CSS. I found out that the tutorial is very friendly for beginners who wants to learn more about web development or HTML and CSS in general. **[HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)** \[but it doesn't have to be]
