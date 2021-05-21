@@ -63,6 +63,9 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <div>
+          <div className="content has-text-centered has-background-black has-text-white-ter">Shanghai Maluoke E-Commerce Co., Ltd.</div>
+        </div>
       </footer>
     )
   }
