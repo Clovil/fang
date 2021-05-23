@@ -6,6 +6,7 @@ description: "Courtesy of No. 1 of HTML & CSS is hard "
 featuredpost: true
 featuredimage: /img/html_and_css.png
 tags:
+  - tutorial
   - tech
   - web
   - HTML
