@@ -41,6 +41,9 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      Shanghai Maluoke E-Commerce Co., Ltd.
+                    </li>
                   </ul>
                 </section>
               </div>
